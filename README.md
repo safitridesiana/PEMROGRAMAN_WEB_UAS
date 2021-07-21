@@ -67,6 +67,10 @@ _8. Tampilan Logout_
 
 ![image](https://user-images.githubusercontent.com/81596251/126409477-d35340b9-dd6b-4bc6-8291-8e480f76e8ef.png)
 
+# DEMO APLIKASI # 
+
+http://localhost/AplikasiKas_RTRW/kas/menu/home.php
+
 
 ============================= _TERIMA KASIH_ ==================================
 
