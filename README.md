@@ -69,8 +69,10 @@ _8. Tampilan Logout_
 
 # DEMO APLIKASI # 
 
-http://localhost/AplikasiKas_RTRW/kas/menu/home.php
+http://localhost/AplikasiKas_RTRW/kas/login.php
 
+Username  : admin
+Password  : admin
 
 ============================= _TERIMA KASIH_ ==================================
 
